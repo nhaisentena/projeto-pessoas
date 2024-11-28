@@ -13,11 +13,12 @@ class MeuApp extends StatelessWidget {
   }
 }
 
+
 class Pessoa {
   final String nome;
   
   final String cpf;
-  final int idade;
+  final  int idade;
   final int telefone;
 
   Pessoa({
